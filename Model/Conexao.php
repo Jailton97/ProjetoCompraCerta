@@ -5,7 +5,7 @@ class Conexao
     {
         $servername = "localhost:3306"; 
         $username = "root";
-        $password = "300520";
+        $password = "";
         $dbname = "compracerta2";
 
         try 
